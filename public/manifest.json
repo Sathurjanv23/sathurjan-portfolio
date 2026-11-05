@@ -1,0 +1,27 @@
+{
+  "name": "Sathurjan Vijithakumarasena — Portfolio",
+  "short_name": "Sathurjan",
+  "description": "Software Engineer & Full-Stack Developer portfolio of Sathurjan Vijithakumarasena (University of Moratuwa).",
+  "start_url": "/",
+  "scope": "/",
+  "display": "standalone",
+  "background_color": "#f6f7f6",
+  "theme_color": "#078f83",
+  "orientation": "portrait-primary",
+  "categories": ["portfolio", "technology", "developer"],
+  "icons": [
+    {
+      "src": "/favicon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any"
+    },
+    {
+      "src": "/favicon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "maskable"
+    }
+  ]
+}
+
